@@ -4,6 +4,8 @@ This code sample  takes the IP address and the host and gets the AS Number and d
 ## How to use this code sample
  - Run the sql file on the database, replacing "databaseName" wiht the name of your database. 
  - Run code.php and you will see a sample from LACNIC
+## Dataset 
+The dataset was adopted from IANA: https://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xhtml
 ## Example output 
 
 <pre> Joint Whois - whois.lacnic.net
